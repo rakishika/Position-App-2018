@@ -1,6 +1,9 @@
 # Position-App-iOS
 Winner of Superposition Hackathon 2018 for best app iOS app
 
+![Screenshot 2023-08-08 at 11 17 22 PM](https://github.com/rakishika/Position-App-iOS/assets/33856993/12a2d8ec-5d81-408d-adf5-ec8ccfec0b09)
+Here is the link to the DevPost:https://devpost.com/software/position-an-implementation-of-weiszfeld-s-algorithm
+Here is the link to the video demo: https://www.youtube.com/watch?v=0ni2cTAbzak
 
 
 Inspiration
